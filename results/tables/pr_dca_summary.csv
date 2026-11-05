@@ -1,0 +1,5 @@
+model,auprc_potable,prevalence_potable,dca_beats_treatall_upto_t
+LR,0.4162,0.3902,0.99
+RF,0.6098,0.3902,0.99
+XGB,0.5932,0.3902,0.99
+LGBM,0.5911,0.3902,0.99

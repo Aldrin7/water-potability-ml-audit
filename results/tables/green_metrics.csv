@@ -1,0 +1,5 @@
+model,train_wall_s,n_repeats,avg_cpu_pct,avg_power_w,train_energy_wh,train_co2_india_g,train_co2_us_g,train_co2_global_g,infer_latency_batch10_ms,infer_latency_per_sample_ms,model_size_mb,n_params,f1,n_cores,source
+LR,0.005,10,31.2,30.6,0.0,0.0,0.0,0.0,0.161,0.016,0.001,10,0.4674,8,"local (measured, this run)"
+RF,1.083,3,67.5,48.7,0.0147,0.0104,0.007,0.007,26.879,2.688,7.869,96846,0.532,8,"local (measured, this run)"
+XGB,0.826,3,68.7,49.3,0.0113,0.008,0.0054,0.0054,0.667,0.067,0.656,13366,0.5081,8,"local (measured, this run)"
+LGBM,0.265,3,98.7,64.3,0.0047,0.0034,0.0022,0.0022,0.994,0.099,0.556,9262,0.504,8,"local (measured, 2026-11-04)"

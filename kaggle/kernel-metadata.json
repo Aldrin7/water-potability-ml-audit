@@ -1,0 +1,15 @@
+{
+  "id": "aldrinmanon/water-audit-noise-fix",
+  "title": "water-audit-noise-fix",
+  "code_file": "kaggle_noise_fix.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [
+    "adityakadiwal/water-potability"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

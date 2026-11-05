@@ -1,0 +1,5 @@
+model,nb_at_deployed_thr,deployed_thr,nb_beats_flagall_interval,nb_positive_interval,auprc
+LR,0.2921,0.42,0.45-0.89,0.30-0.60,0.4162
+RF,0.2959,0.484,0.42-0.89,0.09-0.63,0.6098
+XGB,0.275,0.494,0.44-0.89,0.02-0.65,0.5932
+LGBM,0.2842,0.489,0.44-0.89,0.02-0.65,0.5911

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*.log
+*.err
+*.tmp
+.kaggle/
+.ipynb_checkpoints/
+.venv/

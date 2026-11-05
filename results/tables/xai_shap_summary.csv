@@ -1,0 +1,10 @@
+feature,mean_abs_shap,rank,bis_defining
+ph,0.0473360920638129,1,True
+Sulfate,0.04161976095221643,2,True
+Hardness,0.02083731864323275,3,True
+Solids,0.01823344710023299,4,False
+Chloramines,0.017682488693679086,5,False
+Turbidity,0.00984520311183745,6,False
+Organic_carbon,0.00938633341777512,7,False
+Conductivity,0.009064436148008007,8,False
+Trihalomethanes,0.006762417933945314,9,False

@@ -1,0 +1,2 @@
+model,train_wall_s,n_repeats,avg_cpu_pct,avg_power_w,train_energy_wh,train_co2_india_g,train_co2_us_g,train_co2_global_g,infer_latency_batch10_ms,infer_latency_per_sample_ms,model_size_mb,n_params,f1,n_cores,source
+LGBM,0.265,3,98.7,64.3,0.0047,0.0034,0.0022,0.0022,0.994,0.099,0.556,9262,0.504,8,"local (measured, 2026-11-04)"

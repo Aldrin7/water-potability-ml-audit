@@ -1,0 +1,4 @@
+model,random_cv_f1,spatial_cv_f1,station_memorization_gap,train_f1,temporal_2020_f1,spatial_temporal_gap
+LR,0.6134,0.6075,0.0059,0.608,0.6118,-0.0043
+RF,0.5996,0.5679,0.0317,0.8476,0.6316,-0.0637
+XGB,0.5787,0.5396,0.0391,0.9724,0.6409,-0.1013

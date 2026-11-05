@@ -1,0 +1,8 @@
+{
+  "mde_cohens_dz": 0.529,
+  "n": 30,
+  "alpha": 0.05,
+  "power": 0.8,
+  "method": "noncentral-t exact",
+  "context": "paired per-seed differences"
+}
