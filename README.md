@@ -5,7 +5,7 @@ water-quality screening: how evaluation choices - splitting, imputation,
 resampling, and label definition - inflate (or do not inflate) reported
 performance on real monitoring data.
 
-Archived on Zenodo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23973485.svg)](https://doi.org/10.5281/zenodo.23973485)
+Archived on Zenodo (all versions): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23973484.svg)](https://doi.org/10.5281/zenodo.23973484)
 
 ## What is measured
 
